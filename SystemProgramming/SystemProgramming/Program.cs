@@ -19,6 +19,9 @@ namespace SystemProgramming
 
             Console.WriteLine("friends pair of 4 = " + Friend_Pairs.friends_Pairs(4));
 
+            string s = "[[][]]";
+            Console.WriteLine("Bucket Balansing number of swaps - " + Bucket_Balancing.SwapCount(s));
+
             Console.ReadLine();
 
         }
