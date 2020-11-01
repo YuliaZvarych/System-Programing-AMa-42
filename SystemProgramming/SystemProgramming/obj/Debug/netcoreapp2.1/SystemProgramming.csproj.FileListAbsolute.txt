@@ -1,0 +1,11 @@
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\bin\Debug\netcoreapp2.1\SystemProgramming.deps.json
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\bin\Debug\netcoreapp2.1\SystemProgramming.runtimeconfig.json
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\bin\Debug\netcoreapp2.1\SystemProgramming.runtimeconfig.dev.json
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\bin\Debug\netcoreapp2.1\SystemProgramming.dll
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\bin\Debug\netcoreapp2.1\SystemProgramming.pdb
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.csprojAssemblyReference.cache
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.AssemblyInfoInputs.cache
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.AssemblyInfo.cs
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.dll
+C:\Users\Володимир\Desktop\System-Programing-AMa-42\SystemProgramming\SystemProgramming\obj\Debug\netcoreapp2.1\SystemProgramming.pdb
